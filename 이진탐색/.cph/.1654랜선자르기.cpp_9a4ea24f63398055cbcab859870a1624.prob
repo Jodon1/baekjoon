@@ -1,0 +1,1 @@
+{"name":"Local: 1654랜선자르기","url":"c:\\Users\\USER\\Documents\\GitHub\\backjoon\\이진탐색\\1654랜선자르기.cpp","tests":[{"id":1737352933284,"input":"4 11\n802\n743\n457\n539","output":"200"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Documents\\GitHub\\backjoon\\이진탐색\\1654랜선자르기.cpp","group":"local","local":true}
